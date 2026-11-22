@@ -1,0 +1,7 @@
+{
+  "name": "SwachhSetu AI",
+  "description": "Agentic AI Sanitation Operations Platform for Indian citizens and authorities. Report, verify, prioritize, route, and resolve civic sanitation issues with real Gemini intelligence.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
